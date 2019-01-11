@@ -1,0 +1,15 @@
+{
+  "name": "assistant",
+  "version": "0.0.1",
+  "description": "Utils for development",
+  "main": "index.js",
+  "scripts": {
+    "tinyfy": "tinypng tiny -k XKz0ncz9K2pp9Twk2Hy5jSyNyFqh7tJM",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a-kon",
+  "license": "ISC",
+  "dependencies": {
+    "tinypng-cli": "0.0.7"
+  }
+}
