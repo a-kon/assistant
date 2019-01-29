@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "tinyfy": "tinypng tiny -k XKz0ncz9K2pp9Twk2Hy5jSyNyFqh7tJM",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "webp": "imagemin img --out-dir=webp --plugin=webp"
   },
   "author": "a-kon",
   "license": "ISC",
   "dependencies": {
+    "imagemin-cli": "4.0.0",
     "tinypng-cli": "0.0.7"
+  },
+  "devDependencies": {
+    "imagemin-webp": "5.0.0"
   }
 }
