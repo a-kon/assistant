@@ -1,10 +1,11 @@
-Utility of converting images from JPEG/PNG to .webp format.
+Utility of converting/optimization images.
 
 ISC license.
 
 Docs:
 
-Just move your .jpeg or .png files to:
+Just move your *.jpeg, *.png or *.svg files to:
 
-* img folder for converting to .webp format,
-* tiny folder for converting using a http://tinypng.com.
+* img folder for converting to .webp format using a https://github.com/imagemin/imagemin
+* svg folder for optimization using a https://github.com/svg/svgo
+* tiny folder for converting using a https://tinypng.com
