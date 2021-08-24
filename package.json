@@ -11,11 +11,11 @@
   "author": "a-kon",
   "license": "ISC",
   "dependencies": {
-    "imagemin-cli": "4.0.0",
+    "imagemin-cli": "7.0.0",
     "tinypng-cli": "0.0.7"
   },
   "devDependencies": {
-    "imagemin-webp": "5.0.0",
-    "svgo": "1.2.2"
+    "imagemin-webp": "6.0.0",
+    "svgo": "2.4.0"
   }
 }
