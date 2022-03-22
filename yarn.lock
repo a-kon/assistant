@@ -1301,7 +1301,7 @@ ignore@^5.1.8:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
   integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
 
-imagemin-cli@^7.0.0:
+imagemin-cli@7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/imagemin-cli/-/imagemin-cli-7.0.0.tgz#d9ab5535a589f930802ad5c0587532a45d101b57"
   integrity sha512-YXO6t3l68ZfjvnDebAjFIWUDL14p9nrH4Mf81EYviLtKuS6ngMwuylHj4gOEIazRpsZ1Agkyx5W+zGNm59dBKA==
@@ -1355,7 +1355,7 @@ imagemin-svgo@^9.0.0:
     is-svg "^4.2.1"
     svgo "^2.1.0"
 
-imagemin-webp@^6.0.0:
+imagemin-webp@6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/imagemin-webp/-/imagemin-webp-6.0.0.tgz#bb2d77bab818fd6133df9675326497b877e7be4d"
   integrity sha512-DmVCkI8H1csyqAExsk93LzC88gj2uKXaLLW5Ly+WYsvNx7xv5cJAlozXWIx9Z0kEQr9w98gphi5aP2b++iDH8g==
@@ -1870,9 +1870,9 @@ minimist-options@4.1.0:
     kind-of "^6.0.3"
 
 minimist@^1.1.3, minimist@^1.2.0:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 nice-try@^1.0.4:
   version "1.0.5"
