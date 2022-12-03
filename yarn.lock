@@ -606,9 +606,9 @@ decamelize@^5.0.0:
   integrity sha512-U75DcT5hrio3KNtvdULAWnLiAPbFUC4191ldxMmj4FA/mRuBnmDwU0boNfPyFRhnan+Jm+haLeSn3P0afcBn4w==
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.2.0, decompress-response@^3.3.0:
   version "3.3.0"
@@ -1301,7 +1301,7 @@ ignore@^5.1.8:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
   integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
 
-imagemin-cli@^7.0.0:
+imagemin-cli@7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/imagemin-cli/-/imagemin-cli-7.0.0.tgz#d9ab5535a589f930802ad5c0587532a45d101b57"
   integrity sha512-YXO6t3l68ZfjvnDebAjFIWUDL14p9nrH4Mf81EYviLtKuS6ngMwuylHj4gOEIazRpsZ1Agkyx5W+zGNm59dBKA==
@@ -1355,7 +1355,7 @@ imagemin-svgo@^9.0.0:
     is-svg "^4.2.1"
     svgo "^2.1.0"
 
-imagemin-webp@^6.0.0:
+imagemin-webp@6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/imagemin-webp/-/imagemin-webp-6.0.0.tgz#bb2d77bab818fd6133df9675326497b877e7be4d"
   integrity sha512-DmVCkI8H1csyqAExsk93LzC88gj2uKXaLLW5Ly+WYsvNx7xv5cJAlozXWIx9Z0kEQr9w98gphi5aP2b++iDH8g==
